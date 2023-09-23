@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Jordan B.</h1>
-<h3 align="center">Je suis actuellement en alternance concepteur développeur d'application </h3>
+<h3 align="center">Je suis actuellement en alternance de concepteur développeur d'application Java / Angular </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordan-bosle&label=Profile%20views&color=0e75b6&style=flat" alt="jordan-bosle" /> </p>
 
