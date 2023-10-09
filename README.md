@@ -1,8 +1,6 @@
 <h1 align="center">Salut 👋, je suis Jordan B.</h1>
 <h3 align="center">Je suis actuellement en alternance pour devenir concepteur développeur d'application Java / Angular </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jordan-bosle&label=Profile%20views&color=0e75b6&style=flat" alt="jordan-bosle" /> </p>
-
 - 🌱Je suis en train d'apprendre **Java, React, Spring, JPA/Hibernate**
 
 - 👨‍💻Tous mes projets sont disponible sur mon portfolio : [jordan-bosle.com](jordan-bosle.com)
